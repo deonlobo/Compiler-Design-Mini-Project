@@ -1,0 +1,34 @@
+S -> K
+K -> A
+A -> B : C
+B -> x
+B -> b
+C -> integer
+K -> P F ( A )
+P -> procedure
+F -> foo
+K -> I E N E T
+I -> if
+I -> elseif
+E -> B = U
+U -> 12
+U -> 13
+K -> B : = U
+N -> and
+T -> then
+K -> R ( " M " ) ;
+R -> printf
+M -> Q G -  W G - W
+Q -> by
+G -> copy
+W -> in
+W -> out
+M -> Q S
+S -> address
+K -> else
+M -> V Y
+V -> a
+Y -> mystery
+K -> X I
+K -> X F
+X -> end
